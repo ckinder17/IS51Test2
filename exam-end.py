@@ -5,7 +5,8 @@ infile.close()
 for i in range(len(grades)):
     grades[i] = int(grades[i])
 average = sum(grades) / len(grades)
-num = 0    # number of grades above average
+num = 0
+# number of grades above average
 for grade in grades:
     if grade > average:
         num += 1

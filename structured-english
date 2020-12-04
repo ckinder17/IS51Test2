@@ -1,0 +1,4 @@
+We will br writing a program that displays the number of final grades, the average grade, and the percentage of grades that are about the average grade.
+We will write a main() funcrion to initialize (kickstart) the application, and a calculate_percentage_above_average() function to calculate the percentage
+of grades that are above the average grade.
+The number of grades is 24, the average grade is 83.25%, and the percentage of grades above average is 54.17%.

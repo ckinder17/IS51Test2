@@ -1,0 +1,8 @@
+#number of grades
+    print number of values
+
+#average
+    (sum_of_grades) / (number of values)
+
+#percent of grades above average
+    (Grade values) > (value of average)
